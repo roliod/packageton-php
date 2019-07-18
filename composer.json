@@ -1,0 +1,34 @@
+{
+  "name": "roliod/packageton-php",
+  "description": "Skeleton for php package creation",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Roland Oduberu",
+      "email": "roliod@yahoo.com"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/roliod/packageton-php/issues"
+  },
+  "prefer-stable": true,
+  "require": {
+    "php": "^7.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "Roliod\\PackagetonPhp\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Tests\\": "tests/"
+    }
+  },
+  "require-dev": {
+    "codeception/codeception": "^3.0",
+    "phpunit/phpunit": "^7.5",
+    "vimeo/psalm": "^3.4"
+  }
+}
