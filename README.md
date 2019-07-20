@@ -1,6 +1,6 @@
 # Packegeton-php
 
-Packegeton-php is a skeleton structure created in order to help you quick start a php package.
+Packegeton-php is a skeleton structure which helps you quick start the creation of a php package.
 
 ## Running tests
 
