@@ -9,6 +9,7 @@
       "email": "roliod@yahoo.com"
     }
   ],
+  "minimum-stability": "dev",
   "support": {
     "issues": "https://github.com/roliod/packageton-php/issues"
   },
