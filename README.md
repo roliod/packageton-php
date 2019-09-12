@@ -1,5 +1,7 @@
 # Packegeton-php
 
+[![Build Status](https://travis-ci.com/roliod/packageton-php.svg?token=xLWRR38GPhFQuvaZTh9c&branch=master)](https://travis-ci.com/roliod/packageton-php)
+
 Packegeton-php is a skeleton structure which helps you quick start the creation of a php package.
 
 ## Running tests
